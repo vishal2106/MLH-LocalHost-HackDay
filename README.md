@@ -8,3 +8,4 @@
 - Commit the changes.
 - Push to your Repository.
 - Open a Pull Request with original Repository. 
+Please open the website from this link: vishal2106.github.io
