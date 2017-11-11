@@ -229,6 +229,7 @@ th {
   }
   .navbar {
     display: none;
+    position:fixed;
   }
   .table td,
   .table th {
