@@ -16,7 +16,7 @@ h1, h2, h3 {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center; 
-  opacity: 0.8;}
+  opacity: 1;}
 
 .overlay {
   background: rgba(31, 31, 31, 0.4);
